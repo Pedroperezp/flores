@@ -19,6 +19,16 @@ body {
   overflow: hidden;
   perspective: 1000px;
 }
+#lyrics {
+  font-size: 28px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: white;
+  position: absolute;
+  margin-bottom: 20%;
+  z-index: 1;
+  font-weight: bold;
+  letter-spacing: 4px;
+}
 
 
 @media only screen and (max-width: 600px) {
